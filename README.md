@@ -1,3 +1,6 @@
+This is a BungeeCord version, based on the HexagonMC version, in order to support a wider range of versions.
+
+Original readme from HexagonMC's repository:
 
 BungeeCord for 1.7/1.8/1.9/1.10/1.11
 ==========
